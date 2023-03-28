@@ -1,2 +1,2 @@
 # 50Digits_Numbers_Devision
-Division of two 50-digits number (C)
+A program (written in C) for division and multiplication of two 50-digits numbers
